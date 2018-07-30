@@ -8,7 +8,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open Selection in GitHub</string>
+				<string>Copy Link of Lines on GitHub</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
